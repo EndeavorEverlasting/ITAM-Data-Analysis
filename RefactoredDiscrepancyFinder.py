@@ -20,6 +20,7 @@ missing_sizes = []
 # logging.basicConfig(filename='log.txt', level=logging.INFO)
 
 
+
 def highlight_duplicates(df, output_file):
   try:
     book = load_workbook(output_file)
@@ -228,6 +229,12 @@ def searchForIncorrectType():
   #this functions will compare host name and designator with type
   #if the two determine that type is wrong or vice-versa, it will flag
   return None
+
+def log_processing_row(*args):
+    for arg in args:
+        logging.info(arg)
+    . . .
+
 
 
 input_file = 'lij 1.12.24.xlsx'
