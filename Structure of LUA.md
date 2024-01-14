@@ -1,0 +1,9 @@
+- Root Folder
+  - main.lua
+  - Data
+    - Dataset1
+    - Dataset2
+  - Components
+    - dataModule.lua
+    - analysisModule.lua
+    - utilModule.lua
