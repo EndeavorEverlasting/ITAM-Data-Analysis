@@ -1,3 +1,6 @@
+# Original Author: Richard D. Perez
+# Contributing Authors: Richard D. Perez, Reion Quamina
+
 import os
 import logging
 import pandas as pd
