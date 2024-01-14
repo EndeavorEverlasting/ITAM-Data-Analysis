@@ -1,0 +1,17 @@
+- Root Folder
+  - main.py
+  - data
+    - csv
+      - dataset1
+      - dataset2
+    - ss
+      - dataset1
+      - dataset2
+  - components
+    - data_module.py
+    - analysis_module.py
+    - util_module.py
+  - beta
+    - Snippets
+    - main 1.0.0
+    - main 1.1.0
