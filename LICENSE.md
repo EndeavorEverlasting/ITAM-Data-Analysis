@@ -4,8 +4,11 @@ Version 3, 29 June 2007
 Copyright (C) 2023-2033 Rich Perez
 
 Everyone is permitted to copy and distribute verbatim or modified
-copies of this license document, and changing it is allowed as long
-as the name is changed.
+copies of this license document, provided that any derivative work,
+whether verbatim or modified, includes prominent attribution to the
+original source, including the name of the original author. Changing
+the name of the work does not exempt the licensee from the
+requirement to provide attribution.
 
 Any distribution, modification, or derivative work based on this software must include prominent attribution to the original source, including the name of the original author. This attribution should be visibly included in the associated documentation or, if applicable, in the script itself.
 
