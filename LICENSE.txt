@@ -8,6 +8,7 @@ copies of this license document, and changing it is allowed as long
 as the name is changed.
 
 Any distribution, modification, or derivative work based on this software must include prominent attribution to the original source, including the name of the original author. This attribution should be visibly included in the associated documentation or, if applicable, in the script itself.
+
 TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
 0. Additional Definitions.
